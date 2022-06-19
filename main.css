@@ -1,0 +1,158 @@
+.site-header {
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.navbar-itm {
+text-decoration: none;
+
+}
+
+.heders-list {
+display: flex;
+align-items: center;
+list-style-type: none;
+text-decoration: none;
+}
+.links {
+text-decoration: none;
+color: #555248;
+}
+
+.navbr-list {
+  width: 90px;
+  text-align: center;
+  text-decoration: none;
+}
+.text-hour {
+margin-top: -600px;
+}
+.text {
+color: #444340;
+}
+.price-per-hour {
+  text-align: center;
+  margin-top: 150px;
+}
+.the-size-of-the-clock {
+margin-left: 1100px;
+margin-top: 300px;
+
+
+}
+.img {
+  margin-left: 600px;
+  margin-top: -400px;
+  display: inline-block;
+}
+
+.hourly-rate {
+text-decoration: none;
+align-items: center;
+}
+
+
+.link-watch {
+  padding: 18px;
+background: #444240;
+color: #fff;
+margin-left: 50px;
+margin-right: 1000px;
+margin-top: 90px;
+text-align: center;
+height: 30px;
+}
+.popular-models {
+ margin-top: 400px;
+margin-left: 600px;
+color: #1B1A17;
+}
+.img-list {
+  padding: 126px;
+}
+.watch-price {
+color: #444340;
+
+}
+.watch-shop {
+justify-content: center;
+align-items: center;
+}
+.watch-Rado{
+  display: flex;
+  padding: 50px;
+color: #444340;
+margin-top: 150px;
+margin-left: 100px;
+}
+.popular-watch {
+margin-top: 400px;
+text-align: center;
+}
+.BVLGARI-watch {
+display: flex;
+
+}
+.img-watch-bvlagari {
+  width: 334px;
+    height: auto;
+}
+
+
+.img-watch {
+  display: flex;
+padding-right: 100px;
+justify-content: space-between;
+}
+.img-div {
+  display: flex;
+justify-content: space-between;
+
+}
+.img-text-div {
+  display: flex;
+justify-content: center;
+flex-direction: column;
+}
+.img-div {
+margin-left: 90px;
+}
+
+
+
+.link-watch-1 {
+  padding: 50px;
+  background-color: #D4B098;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+width:  170px;
+height:12px;
+}
+
+.new-coleth-link  {
+  padding: 90px;
+  display: flex;
+justify-content: space-between;
+flex-direction: column;
+}
+.email-link {
+text-decoration: none;
+color: black;
+}
+.icons {
+  justify-content: start;
+}
+
+
+
+.summer-watch  {
+  display: flex;
+justify-content: flex-end;
+}
+.summer-watch-1 {
+display: flex;
+justify-content: flex-end;
+
+
+}
